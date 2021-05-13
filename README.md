@@ -13,7 +13,7 @@ Android Drawables
 ```
 dependencies {
     ...
-    implementation 'io.github.alexmofer.widget:drawable:2.1.0'
+    implementation 'io.github.alexmofer.drawable:drawable:2.1.0'
     ...
 }
 ```
